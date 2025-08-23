@@ -23,3 +23,20 @@ Ferizaj
 
 
 ```
+
+
+| pozicionet | qmimi |
+| -------------- | --------------- |
+| situacioni terrenit | 150 |
+| Piketimi i kufirit | 120 |
+| Manuali per urbanizem | 150 |
+| Piketimi i pilotave | 100 |
+| Piketimi i germimit | 150 |
+| Llogaritja e sasive | 200 |
+--------------------------------
+| Piketimi i kontrapllake | 164 |
+| Piketimi i bodrumit | 164 |
+| Piketimi i perdhese | 342 |
+| Piketimi i kati 1 |365 |
+| Piketimi i kati 2 |201 |
+
