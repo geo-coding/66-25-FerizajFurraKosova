@@ -34,6 +34,10 @@ Ferizaj
 | Piketimi i germimit | 150 |
 | Llogaritja e sasive | 200 |
 --------------------------------
+
+
+| pozicionet | qmimi |
+| -------------- | --------------- |
 | Piketimi i kontrapllake | 164 |
 | Piketimi i bodrumit | 164 |
 | Piketimi i perdhese | 342 |
